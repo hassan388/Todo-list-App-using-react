@@ -1,0 +1,12 @@
+.Container {
+  padding: 0;
+  margin: 10px;
+  width: 500px;
+  max-width: 100%;
+  border: 1.5px solid rgba(123, 119, 119, 0.989);
+  border-radius: 4px;
+  box-shadow: 2px 2px 1px rgb(0, 0, 0, 0.3);
+  display: grid;
+  grid-template-rows: repeat(2fr, 2fr, 1fr);
+  grid-template-columns: 1fr;
+}

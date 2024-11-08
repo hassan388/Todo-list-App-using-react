@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box !important;
+}
+input {
+  width: 100%;
+}
+.item-container {
+  text-align: start;
+}
+.kg-row {
+  margin: 10px 5px;
+}
+.kg-button {
+  min-width: 80px;
+  margin-inline: 20% !important;
+}
+.kg-button-container {
+  text-align: left;
+}
